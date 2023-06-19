@@ -11,6 +11,9 @@ The header section of my portfolio is clean and visually appealing. It includes 
 About Me Section:
 In the about me section, you will find a concise yet engaging description of who I am, my background, and my passion for web development. I have also included my education, work experience, and any notable achievements that are relevant to the field. This section aims to give you a glimpse into my personality and professional journey.
 
+Resume/CV:
+I include a downloadable version of my resume or CV, allowing recruiters or potential clients to access a detailed overview of my qualifications, work history, and education. This provides an additional option for those who prefer a more traditional document format.
+
 Skills Section:
 The skills section is where I highlight my technical skills and competencies. It is designed to provide a clear overview of the programming languages, frameworks, and tools that I am proficient in. I have categorized my skills into different sections, such as front-end development, back-end development, databases, and version control. This section helps you understand the depth of my technical expertise.
 
